@@ -5,10 +5,13 @@ I’m an **Application Support Specialist** with expertise in **SAP SuccessFacto
 ---
 
 ## 💼 What I Do
-- 📌 Provide end-to-end application support for enterprise systems
-- 🧩 Administer and manage SAP SuccessFactors Learning Management System (LMS)
-- 🔍 Troubleshoot, optimize, and document issue resolutions
-- 🤝 Collaborate with cross-functional teams for process improvement
+SAP Success Factors Learning Management System :
+Performing continuous Cloud Platform integration activities to integrate all the items from Veeva to be placed in the Learning Management System [LMS] with minimal exceptions.
+Performed system configurations including learning assignments, role-based permissions, and approval workflows.
+Lead on user management activities that includes creating and managing user accounts and roles.
+Ensure the LMS software is performing well, perform maintenance procedures, and partner with LMS providers to keep system specifications up to date.
+Maintaining document configurations as per the requirement.
+Provided Tier 1 and Tier 2 support for LMS users across global regions, resolving tickets within SLA.
 
 ---
 
