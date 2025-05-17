@@ -1,41 +1,43 @@
-# 👋 Hi, I'm Naga Sai Akhil Bezawada
+# 👋 Hi, I'm Naga Sai Akhil
 
-I’m an **Application Support Specialist** with expertise in **SAP SuccessFactors LMS Administration**, passionate about ensuring seamless system operations and user experiences.
+🎯 A passionate **Technical Support Engineer** with 3.8+ years of experience in **Enterprise Application Support**, **SAP SuccessFactors LMS**, **SEO Optimization**, and **Cloud Integration**.
 
----
+## 🧠 About Me
 
-## 💼 What I Do
-SAP Success Factors Learning Management System :
-Performing continuous Cloud Platform integration activities to integrate all the items from Veeva to be placed in the Learning Management System [LMS] with minimal exceptions.
-Performed system configurations including learning assignments, role-based permissions, and approval workflows.
-Lead on user management activities that includes creating and managing user accounts and roles.
-Ensure the LMS software is performing well, perform maintenance procedures, and partner with LMS providers to keep system specifications up to date.
-Maintaining document configurations as per the requirement.
-Provided Tier 1 and Tier 2 support for LMS users across global regions, resolving tickets within SLA.
+- 🔧 Currently working at **Cognizant Technology Solutions**
+- 💡 Skilled in **SAP SuccessFactors LMS**, **SAP CPI**, **Splunk**, **Jira**, **ServiceNow**, **AWS EC2**, and **Enterprise Search (Sinequa)**
+- 🖥️ Comfortable with HTML, Java, and data-driven SEO & marketing tools like **SEMRush**, **Ahrefs**, **Google Analytics**
 
----
+- 🌐 Hands-on experience in:
+  - Learning Management System (LMS) administration
+  - End-to-end application deployment and support
+  - CI/CD pipelines and system monitoring
+  - SEO audits and content performance analysis
+- 📈 Known for optimizing user workflows, reducing MTTR by 30%, and driving SEO growth
 
-## 🧰 Tools & Technologies
-- SAP SuccessFactors LMS
-- SAP HCM
-- ServiceNow
-- SQL, MS Excel (Advanced)
-- Power BI (Basic Reporting)
-- Jira, Confluence
+## 🛠️ Technical Skills
 
----
+- **Languages & Markup**: HTML, Java
+- **DevOps & Cloud**: Jenkins, AWS EC2, Linux/Windows Server Admin
+- **Monitoring & Support Tools**: Splunk, Jira, ServiceNow
+- **Enterprise Platforms**: SAP SuccessFactors LMS, SAP CPI, Sinequa
+- **Marketing & Analytics Tools**: SEMRush, Ahrefs, Screaming Frog, Google Analytics
 
-## 🌐 My Portfolio
-Visit my personal profile site here:  
-👉 **[nagasaiakhil.github.io](https://nagasaiakhil.github.io)**
+## 📂 Notable Projects
 
----
+### 🔹 SAP SuccessFactors Integration
+Integrated Veeva content with SAP LMS using SAP CPI; automated assignment configurations and streamlined user management.
+
+### 🔹 SEO Performance Optimization
+Conducted full-site SEO audits across multiple platforms; improved traffic through backlink audits, keyword mapping, and competitor analysis.
+
+### 🔹 Sinequa Deployment & Monitoring
+Managed CI/CD pipeline with Jenkins and monitored system health using Splunk; resolved environment-specific issues across dev/prod.
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin) *(Replace with your LinkedIn URL)*
-- 📧 Email: nagasaiakhil@example.com *(Replace with your email)*
-- 🐙 [GitHub](https://github.com/nagasaiakhil)
 
----
+- 📧 Ph No: +91 9100485435  
+- 📧 Email: bezawadaakhil123@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/akhilbezawada)  
+- 💻 [GitHub](https://github.com/akhilbezawada)
 
-> “Success is not final; failure is not fatal: It is the courage to continue that counts.” – Winston S. Churchill
